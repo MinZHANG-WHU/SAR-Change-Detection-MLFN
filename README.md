@@ -26,4 +26,4 @@ Before running this code, you should correctly install ubuntu system and caffe f
 
 ***
 
-Yunhao Gao, Feng Gao*, Junyu Dong, Shenke Wang. "[Transferred deep learning for sea ice change detection from synthetic aperture radar Images](http://fenggao-file.stor.sinaapp.com/2019_CD_transfered_deep_learning.pdf)". IEEE Geoscience and Remote Sensing Letters, vol. 16, no. 10, pp. 1655-1659, Oct. 2019.
+Yunhao Gao, Feng Gao*, Junyu Dong, Shenke Wang. "[Transferred deep learning for sea ice change detection from synthetic aperture radar Images](http://fenggao-file.stor.sinaapp.com/2019_CD_transfered_deep_learning.pdf)". *IEEE Geoscience and Remote Sensing Letters*, vol. 16, no. 10, pp. 1655-1659, Oct. 2019.
