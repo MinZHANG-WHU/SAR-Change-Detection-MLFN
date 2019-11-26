@@ -3,8 +3,6 @@
 
 This code is for our *GRSL 2019* paper "Transferred deep learning for sea ice change detection from synthetic aperture radar images". 
 
-Yunhao Gao, Feng Gao*, Junyu Dong, Shenke Wang. "[Transferred deep learning for sea ice change detection from synthetic aperture radar Images](http://fenggao-file.stor.sinaapp.com/2019_CD_transfered_deep_learning.pdf)". IEEE Geoscience and Remote Sensing Letters, 2019.
-
 If you have any questions, please contact us. 
 Email:  gaoyunhao128@163.com gaofeng@ouc.edu.cn
 
@@ -25,3 +23,7 @@ Before running this code, you should correctly install ubuntu system and caffe f
 (5) Running the "extract_prob.sh" in Caffe to extract probability from the "result.txt"
 
 (6) Running the "calculating_result.m" in Matlab to calculate the matrics (PCC, Kappa, FP and FN) and draw the final change map.
+
+***
+
+Yunhao Gao, Feng Gao*, Junyu Dong, Shenke Wang. "[Transferred deep learning for sea ice change detection from synthetic aperture radar Images](http://fenggao-file.stor.sinaapp.com/2019_CD_transfered_deep_learning.pdf)". IEEE Geoscience and Remote Sensing Letters, 2019.
